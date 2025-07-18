@@ -60,6 +60,7 @@
   <main>
     <section>
       <h2>Sites Úteis</h2>
+       <a href="https://encurta.net/ref/113084217886494396012" target="_blank" ><img src="https://blog.encurta.net/wp-content/uploads/2017/07/160x600.png" alt="EncurtaNET" /></a> 
       <ul>
         <li><a href="https://shrtlk.biz/86Hyt">COMO GANHAR DINHEIRO DE FORMA EFICIENTE DINHEIRO ONLINE ETC....</a></li>
         <li><a href="https://victorxx.github.io/erpgithubrnadom01/">CONFIRA A O OPORTUNIDADE DE ERP</a></li>
